@@ -41,7 +41,6 @@ Weeks of Welcome Poster Competition - UTD, Fall 2019
 
 A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-Data Science YouTube
 
 Publications
 Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
